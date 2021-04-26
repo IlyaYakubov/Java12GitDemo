@@ -1,2 +1,2 @@
-# Java012GitDemo
+# Java12GitDemo
 just simple git repo demo
